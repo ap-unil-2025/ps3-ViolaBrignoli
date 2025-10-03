@@ -1,6 +1,0 @@
-c9a7705 Problem 4 solved
-1201f38 Problem 3 solved
-30310cc Problem 2 solved
-237a09b Add my name and date
-7bcb689 Add GitHub Classroom autograding configuration
-2dc2daa Initial commit
